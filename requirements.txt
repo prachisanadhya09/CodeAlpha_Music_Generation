@@ -1,4 +1,2 @@
-music21
-numpy
-tensorflow
 streamlit
+music21
